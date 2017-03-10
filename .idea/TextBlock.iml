@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="GEN_FOLDER_RELATIVE_PATH_APT" value="/../../TextBlock/gen" />
+        <option name="GEN_FOLDER_RELATIVE_PATH_AIDL" value="/../../TextBlock/gen" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/../../TextBlock/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/../../TextBlock/res" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/../../TextBlock/assets" />
+        <option name="LIBS_FOLDER_RELATIVE_PATH" value="/../../TextBlock/libs" />
+        <option name="PROGUARD_LOGS_FOLDER_RELATIVE_PATH" value="/../../TextBlock/proguard_logs" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Android API 15 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
